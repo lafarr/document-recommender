@@ -1,0 +1,17 @@
+/home/james/dev/code/cs/DocumentRecommender/bin/Debug/net8.0/DocumentRecommender
+/home/james/dev/code/cs/DocumentRecommender/bin/Debug/net8.0/DocumentRecommender.deps.json
+/home/james/dev/code/cs/DocumentRecommender/bin/Debug/net8.0/DocumentRecommender.runtimeconfig.json
+/home/james/dev/code/cs/DocumentRecommender/bin/Debug/net8.0/DocumentRecommender.dll
+/home/james/dev/code/cs/DocumentRecommender/bin/Debug/net8.0/DocumentRecommender.pdb
+/home/james/dev/code/cs/DocumentRecommender/obj/Debug/net8.0/DocumentRecommender.GeneratedMSBuildEditorConfig.editorconfig
+/home/james/dev/code/cs/DocumentRecommender/obj/Debug/net8.0/DocumentRecommender.AssemblyInfoInputs.cache
+/home/james/dev/code/cs/DocumentRecommender/obj/Debug/net8.0/DocumentRecommender.AssemblyInfo.cs
+/home/james/dev/code/cs/DocumentRecommender/obj/Debug/net8.0/DocumentRecommender.csproj.CoreCompileInputs.cache
+/home/james/dev/code/cs/DocumentRecommender/obj/Debug/net8.0/DocumentRecommender.dll
+/home/james/dev/code/cs/DocumentRecommender/obj/Debug/net8.0/refint/DocumentRecommender.dll
+/home/james/dev/code/cs/DocumentRecommender/obj/Debug/net8.0/DocumentRecommender.pdb
+/home/james/dev/code/cs/DocumentRecommender/obj/Debug/net8.0/DocumentRecommender.genruntimeconfig.cache
+/home/james/dev/code/cs/DocumentRecommender/obj/Debug/net8.0/ref/DocumentRecommender.dll
+/home/james/dev/code/cs/DocumentRecommender/bin/Debug/net8.0/HtmlAgilityPack.dll
+/home/james/dev/code/cs/DocumentRecommender/obj/Debug/net8.0/DocumentRecommender.csproj.AssemblyReference.cache
+/home/james/dev/code/cs/DocumentRecommender/obj/Debug/net8.0/Document.682130CE.Up2Date
