@@ -35,13 +35,10 @@ class Calculations
 
     public static double CosineSimilarity(double[] vec, double[] otherVec)
     {
-        System.Collections.Generic.List<double> firstVec = new System.Collections.Generic.List<double>(vec);
-        System.Collections.Generic.List<double> secondVec = new System.Collections.Generic.List<double>(otherVec);
-
         double dotProduct = 0;
         for (int i = 0; i < vec.Length; ++i)
         {
-            dotProduct += firstVec[i] * secondVec[i];
+            dotProduct += vec[i] * otherVec[i];
         }
 
         double firstNorm = 0;

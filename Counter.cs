@@ -77,13 +77,13 @@
      {
         ulong hash = (ulong) str.GetHashCode();
         ulong index = hash & (ulong) (Table.Length - 1);
-        if (Table[index] == null) 
+        if (Table[index] is null) 
         {
             return;
         } 
         else 
         {
-            Node<string>? current = Table[index];
+            Node<string> current = Table[index];
             if (current.Value == str) 
             {
                 Table[index] = current.Next;

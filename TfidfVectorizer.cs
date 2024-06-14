@@ -24,8 +24,7 @@ static class TfidfVectorizer
             tfidfMatrix[i] = new double[uniqueWords.Count];
             foreach (string word in uniqueWords)
             {
-                var x = Calculations.CalculateTfidf(word, docs[i], docs);
-                tfidfMatrix[i][j] = x;
+                tfidfMatrix[i][j] = Calculations.CalculateTfidf(word, docs[i], docs);
                 ++j;
             }
         }
